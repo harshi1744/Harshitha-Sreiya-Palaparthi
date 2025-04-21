@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Harshitha Sreiya Palaparthi | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .profile-pic {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid #4a90e2;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Harshitha Sreiya Palaparthi</h1>
+    <p>Portfolio</p>
+    <nav>
+      <a href="about.html">About</a>
+      <a href="projects.html">Projects</a>
+      <a href="habits.html">Habits</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <img src="harshitha.jpg" alt="Profile Picture" class="profile-pic">
+
+  <footer>
+    <p>© 2025 Harshitha Sreiya Palaparthi</p>
+  </footer>
+</body>
+</html>
